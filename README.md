@@ -84,7 +84,7 @@ git clone https://github.com/EmanuilPavlov/SwiftProject.git
 3. Run the application (F5 or dotnet run)
 
 4. Open API documentation (Scalar UI):
-https://localhost:<port>/scalar
+https://localhost:5029/scalar
 
 ---
 
