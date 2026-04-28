@@ -1,0 +1,6 @@
+@SwiftProject_HostAddress = http://localhost:5029
+
+POST {{SwiftProject_HostAddress}}/api/mt103
+Accept: application/json
+
+###
