@@ -77,7 +77,7 @@ MUNCHENER STR. 35, GERMANY
 ## 🚀 How to Run
 
 1. Clone repository
-git clone https://github.com/your-username/SwiftProject.git
+git clone https://github.com/EmanuilPavlov/SwiftProject.git
 
 2. Open project in Visual Studio
 
